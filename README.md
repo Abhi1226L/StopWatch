@@ -34,7 +34,7 @@ This project is a simple stopwatch application built using HTML, CSS, and JavaSc
 
 ## What I learned
 
- I learnt using of CSS properties like background-size,position and connecting it with javascript by using setInterval and clearInterval method
+I learned how to use CSS properties such as `background-size` and `background-position`, and how to connect them with JavaScript using the `setInterval` and `clearInterval` methods.
 
  ## Author
 
